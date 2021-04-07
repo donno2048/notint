@@ -27,5 +27,5 @@ noin != noin
 noin == "42"
 noin == 42
 noin == 43
-print(notint)
+print(noin)
 ```
