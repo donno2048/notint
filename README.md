@@ -30,4 +30,4 @@ noin == 43
 print(noin)
 ```
 
-[![demo](https://asciinema.org/a/KeKTDdlK0roSnaVdkwxoqMqHn.svg)](https://asciinema.org/a/KeKTDdlK0roSnaVdkwxoqMqHn)
+[![demo](https://asciinema.org/a/411765.svg)](https://asciinema.org/a/411765)
