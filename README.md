@@ -29,3 +29,5 @@ noin == 42
 noin == 43
 print(noin)
 ```
+
+[![demo](https://asciinema.org/a/KeKTDdlK0roSnaVdkwxoqMqHn.svg)](https://asciinema.org/a/KeKTDdlK0roSnaVdkwxoqMqHn)
