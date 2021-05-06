@@ -29,5 +29,8 @@ noin == 42
 noin == 43
 print(noin)
 ```
+<<<<<<< HEAD
 
 [![demo](https://asciinema.org/a/411765.svg)](https://asciinema.org/a/411765)
+=======
+>>>>>>> parent of f8b115a (Update README.md)
