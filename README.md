@@ -1,5 +1,7 @@
 # notint
 
+This is basically to demo the magic methods.
+
 ## Install it from PyPi
 
 ```sh
